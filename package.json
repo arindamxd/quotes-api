@@ -1,0 +1,25 @@
+{
+  "name": "quotes-api",
+  "version": "1.0.0",
+  "description": "An API for retrieving awesome quotes",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arindamxd/quotes-api"
+  },
+  "keywords": [
+    "quotes",
+    "api"
+  ],
+  "author": "Arindam Karmakar",
+  "bugs": {
+    "url": "https://github.com/arindamxd/quotes-api/issues"
+  },
+  "homepage": "https://github.com/arindamxd/quotes-api",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.14.1"
+  }
+}
